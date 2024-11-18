@@ -10,7 +10,7 @@
     <link
       id="jupyter-lite-main"
       rel="preload"
-      href="build/lab/bundle.js"
+      href="/build/lab/bundle.js"
       main="index"
       as="script"
     />
@@ -29,7 +29,7 @@
           return;
         }
         await import(
-          'config-utils.js'
+          '../config-utils.js'
         );
       }.call(this));
     </script>
