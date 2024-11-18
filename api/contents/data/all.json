@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "format": "json",
+      "path": "files/python32123.ipynb",
+      "type": "notebook"
+    }
+  ],
+  "created": "2024-11-18T03:37:55.087072Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-11-18T03:37:55.087072Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
