@@ -4,19 +4,11 @@
     "appUrl": "./lab",
     "appVersion": "0.4.1",
     "baseUrl": "./",
-    "content":[
+    "contents":[
       {
-        "content": null,
-        "created": "2024-11-18T03:37:55.087072Z",
-        "format": null,
-        "hash": null,
-        "hash_algorithm": null,
-        "last_modified": "2024-11-18T03:37:18.866778Z",
-        "mimetype": null,
-        "name": "python32123.ipynb",
+        "format": "json",
         "path": "files/python32123.ipynb",
-        "type": "notebook",
-        "writable": true
+        "type": "notebook"
       }
     ],
     "defaultKernelName": "python",
